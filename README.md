@@ -10,4 +10,7 @@ This repository showcases end-to-end Data Analysis using Python, covering NumPy,
 
 <img width="1030" height="437" alt="image" src="https://github.com/user-attachments/assets/50b9d653-5ade-4d3f-a7b1-d2e56135c3c2" />
 
+## Functions - Using a Function in Another Function 
+
+
 
