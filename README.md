@@ -41,7 +41,8 @@ This repository showcases end-to-end Data Analysis using Python, covering NumPy,
 <img width="560" height="520" alt="image" src="https://github.com/user-attachments/assets/50d38cd0-ba6f-4593-9e53-99f6913effcc" />
 <img width="1213" height="448" alt="image" src="https://github.com/user-attachments/assets/065fae1b-6a3e-45e1-be07-de151ec1218b" />
 <img width="1178" height="226" alt="image" src="https://github.com/user-attachments/assets/bbe40674-e357-43dc-bfee-8db91a3ef6d8" />
-<img width="907" height="508" alt="image" src="https://github.com/user-attachments/assets/74961c61-d58a-476a-a49d-484ee351e88c" />
+<img width="1101" height="483" alt="image" src="https://github.com/user-attachments/assets/67033eac-499d-4b1f-a9a6-cf4fbcd13f0e" />
+
 
 
 
