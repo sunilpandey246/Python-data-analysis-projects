@@ -160,7 +160,7 @@ The scatter plot indicates a clear positive correlation between property area an
 
 ---
 
-# 📢 Project 7: Effect of Advertising Expenditure on Sales
+## Project 7: Effect of Advertising Expenditure on Sales
 
 ## 📊 Visualization (Scatter Plot with Regression Line)
 
