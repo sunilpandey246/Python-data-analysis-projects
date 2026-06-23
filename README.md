@@ -1,4 +1,6 @@
-# Python Data Analysis Projects
+<h1 align="center">
+  <span style="color:#1E90FF;"> Python Data Analysis Projects</span>
+</h1>
 
 ## Data Visualization
 
