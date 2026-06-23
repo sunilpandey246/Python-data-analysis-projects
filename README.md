@@ -30,7 +30,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 - German brands such as **Volkswagen**, **Mercedes-Benz**, and **BMW** dominate the listings dataset.
 - Data visualization helps quickly compare brand popularity and market availability.
 
----
+
 
 ## Used Cars Listings Visualization (Bar Chart)
 
