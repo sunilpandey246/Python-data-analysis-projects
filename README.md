@@ -142,7 +142,7 @@ The real estate market is primarily dominated by mid-priced properties, with the
 ## 📊 Visualization (Scatter Plot)
 
 <p align="center">
-  <img src="Relationship between Area and Price of California Real Estate.png" width="800">
+  <img src="Relationship between Area and Price of California Real Estate.png" width="900">
 </p>
 
 ## Key Insights
