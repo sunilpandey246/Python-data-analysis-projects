@@ -29,7 +29,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ## 📈 Visualization
 
-<img src="Used Cars Bar.png" width="680">
+<img src="Used Cars Bar.png" width="650">
 
 
 ---
