@@ -1,6 +1,8 @@
-# Python-data-analysis-projects
-# Data Visualization
-## 🚗 Used Cars Listings Analysis and Visualization (Bar Chart)
+# Python Data Analysis Projects
+
+## Data Visualization
+
+### 🚗 Used Cars Listings Analysis and Visualization using Python (Bar Chart)
 
 ## Project Overview
 
