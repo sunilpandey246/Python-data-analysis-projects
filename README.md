@@ -2,7 +2,7 @@
 
 ## Data Visualization
 
-## Used Cars Listings Analysis and Visualization using Python 
+## Used Cars Listings Analysis and Visualization
 
 ## Project Overview
 
