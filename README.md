@@ -68,4 +68,26 @@ The used car market is primarily dominated by **Diesel** and **Petrol** vehicles
 
 ---
 
+# 🚗 Project 3: Popularity of Engine Fuel Types Analysis (1982–2016)
+
+## 📊 Visualization **Chart Type:** Stacked Area Chart
+
+
+
+<p align="center">
+  <img src="Popularity of Engine Fuel Types.png" width="800">
+</p>
+
+##  Key Insights
+
+- Diesel vehicles dominated the market throughout most of the period and consistently recorded the highest number of cars.
+- Petrol vehicles remained the second most popular fuel type, showing steady growth over time.
+- Gas-powered vehicles maintained the smallest market share compared to Diesel and Petrol.
+- The overall number of vehicles increased significantly from the mid-1990s and reached its peak around 2007–2008.
+- A sharp decline in vehicle counts is observed after 2012 across all fuel types.
+
+##  Conclusion
+
+The analysis shows that Diesel was the most preferred engine fuel type between 1982 and 2016, followed by Petrol. While all fuel types experienced growth over time, the market peaked during the late 2000s before declining in later years. Overall, Diesel and Petrol remained the dominant fuel choices throughout the period.
+
 
