@@ -46,9 +46,9 @@ The visualization provides a clear comparison of used car listings across differ
 
 ---
 
-## Project 2: Fuel Type Distribution Analysis (Pie Chart)
+## Project 2: Fuel Type Distribution Analysis
 
-### 📊 Visualization
+### 📊 Visualization  (Pie Chart)
 
 <p align="center">
   <img src="Cars by Engine Fuel Type.png" width="500"</p>
