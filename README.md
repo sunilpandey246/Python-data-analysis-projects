@@ -27,7 +27,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ## 📈 Visualization
 
-![Cars Listings by Brand](https://raw.githubusercontent.com/sunilpandey246/Python-data-analysis-projects/main/Used%20Cars%20Bar.png)
+![Cars Listings by Brand]
 
 ---
 
