@@ -112,4 +112,26 @@ The analysis shows that Diesel was the most preferred engine fuel type between 1
 
 The analysis reveals that the **S&P 500** and **FTSE 100** closely tracked each other's movements during H2 2008. The high volatility and synchronized market behavior reflect the widespread effects of the global financial crisis, demonstrating how interconnected major international stock markets were during this period.
 
+---
+
+# 🏠 Project 5: Real Estate Price Distribution Analysis
+
+## 📊 Visualization (Histogram Chart)
+
+<p align="center">
+  <img src="Distribution of Real Estate Prices.png" width="800">
+</p>
+
+## Key Insights
+
+- Most properties are concentrated in the **$180K–$300K** price range.
+- The highest number of properties falls around **$220K–$280K**, indicating this is the most common market segment.
+- As property prices increase beyond **$300K**, the number of listings gradually decreases.
+- High-priced properties above **$450K** are relatively rare compared to mid-range properties.
+- The distribution is **right-skewed**, with a small number of expensive properties extending the upper price range.
+
+## Conclusion
+
+The real estate market is primarily dominated by mid-priced properties, with the majority of listings clustered between **$180K and $300K**. Higher-priced properties are less common, resulting in a right-skewed distribution. This suggests that affordable and mid-range homes make up the largest share of the market.
+
 
