@@ -89,6 +89,27 @@ The used car market is primarily dominated by **Diesel** and **Petrol** vehicles
 
 The analysis shows that Diesel was the most preferred engine fuel type between 1982 and 2016, followed by Petrol. While all fuel types experienced growth over time, the market peaked during the late 2000s before declining in later years. Overall, Diesel and Petrol remained the dominant fuel choices throughout the period.
 
+
 ---
+
+## Project 4: Stock Market Returns Comparison (S&P 500 vs FTSE 100)
+
+## 📊 Visualization (Line Chart)
+
+<p align="center">
+  <img src="S&P vs FTSE Returns.png" width="800">
+</p>
+
+## Key Insights
+
+- Both the **S&P 500** and **FTSE 100** exhibited high volatility during the second half of 2008.
+- The returns of both indices moved in a similar pattern, indicating a strong positive correlation between the U.S. and U.K. stock markets.
+- Significant positive and negative spikes were observed, reflecting the uncertainty and turbulence in global financial markets.
+- The largest fluctuations occurred between **October and November 2008**, highlighting the impact of the global financial crisis.
+- Despite short-term recoveries, both indices experienced frequent swings in returns throughout the period.
+
+##  Conclusion
+
+The analysis reveals that the **S&P 500** and **FTSE 100** closely tracked each other's movements during H2 2008. The high volatility and synchronized market behavior reflect the widespread effects of the global financial crisis, demonstrating how interconnected major international stock markets were during this period.
 
 
