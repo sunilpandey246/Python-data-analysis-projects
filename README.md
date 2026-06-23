@@ -29,6 +29,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ## Brand-wise Used Cars Listings (Bar Chart)
 
+
 <img src="Used Cars Bar.png" width="650">
 
 
