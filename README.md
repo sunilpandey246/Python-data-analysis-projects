@@ -135,3 +135,25 @@ The analysis reveals that the **S&P 500** and **FTSE 100** closely tracked each 
 The real estate market is primarily dominated by mid-priced properties, with the majority of listings clustered between **$180K and $300K**. Higher-priced properties are less common, resulting in a right-skewed distribution. This suggests that affordable and mid-range homes make up the largest share of the market.
 
 
+---
+
+# 🏡 Project 7: California Real Estate Area vs Price Analysis
+
+## 📊 Visualization (Scatter Plot)
+
+<p align="center">
+  <img src="Relationship between Area and Price of California Real Estate.png" width="800">
+</p>
+
+## Key Insights
+
+- A strong positive relationship exists between property area and price.
+- Larger properties generally have higher market values.
+- Most properties are concentrated between **180–350 sq. ft.** and **$600K–$1.2M**.
+- Premium properties with larger areas tend to exceed **$1.5M** in price.
+- The positive trend is consistent across different building types.
+
+## Conclusion
+
+The scatter plot indicates a clear positive correlation between property area and price in the California real estate market. As the area of a property increases, its price generally rises, making property size a key factor influencing market value.
+
