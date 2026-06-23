@@ -2,7 +2,7 @@
 
 ## Data Visualization
 
-## Used Cars Listings Analysis and Visualization using Python (Bar Chart)
+## Used Cars Listings Analysis and Visualization using Python 
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ---
 
-## Visualization
+## Brand-wise Used Cars Listings (Bar Chart)
 
 <img src="Used Cars Bar.png" width="650">
 
