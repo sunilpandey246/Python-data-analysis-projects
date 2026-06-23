@@ -119,7 +119,7 @@ The analysis reveals that the **S&P 500** and **FTSE 100** closely tracked each 
 ## 📊 Visualization (Histogram Chart)
 
 <p align="center">
-  <img src="Distribution of Real Estate Prices.png" width="800">
+  <img src="Distribution of Real Estate Prices.png" width="700">
 </p>
 
 ## Key Insights
