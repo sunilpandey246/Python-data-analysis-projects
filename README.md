@@ -157,3 +157,28 @@ The real estate market is primarily dominated by mid-priced properties, with the
 
 The scatter plot indicates a clear positive correlation between property area and price in the California real estate market. As the area of a property increases, its price generally rises, making property size a key factor influencing market value.
 
+
+---
+
+# 📢 Project 7: Effect of Advertising Expenditure on Sales
+
+## 📊 Visualization (Scatter Plot with Regression Line)
+
+<p align="center">
+  <img src="Effect of Ad Expenditure on Sales.png" width="800">
+</p>
+
+## Key Insights
+
+- A strong positive relationship exists between advertising expenditure and sales.
+- Sales tend to increase as advertising spending rises.
+- The regression line indicates a clear upward trend across the dataset.
+- Most observations are clustered around the trend line, suggesting a strong correlation.
+- Higher advertising budgets are generally associated with higher sales performance.
+
+## Conclusion
+
+The analysis demonstrates a strong positive correlation between advertising expenditure and sales. Businesses that invest more in advertising tend to achieve higher sales, highlighting the importance of marketing spend in driving revenue growth.
+
+---
+
