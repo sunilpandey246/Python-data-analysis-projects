@@ -27,7 +27,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ## 📈 Visualization
 
-![Cars Listings by Brand]
+
 
 ---
 
