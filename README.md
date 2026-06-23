@@ -182,3 +182,25 @@ The analysis demonstrates a strong positive correlation between advertising expe
 
 ---
 
+## 🐍 Project 9: Python Adoption Trend Analysis (2012–2019)
+
+## 📊 Visualization (Combined Bar and Line Chart)
+
+<p align="center">
+  <img src="KD Nuggets Survey Python Users.png" width="800">
+</p>
+
+## Key Insights
+
+- Python adoption increased steadily from **2012 to 2019**.
+- The percentage of Python users grew from approximately **15% to 67%** during the period.
+- Survey participation peaked in **2014**, with over 3,000 participants.
+- Python usage continued to rise despite fluctuations in participant numbers.
+- The most significant growth in Python adoption occurred between **2015 and 2018**.
+
+## Conclusion
+
+The survey results demonstrate the rapid growth of Python within the data science and analytics community. While the number of survey participants varied over the years, Python adoption consistently increased, establishing Python as one of the most popular programming languages for data-related tasks.
+
+---
+
