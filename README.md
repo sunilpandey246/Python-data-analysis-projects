@@ -70,7 +70,7 @@ The used car market is primarily dominated by **Diesel** and **Petrol** vehicles
 
 ## Project 3: Popularity of Engine Fuel Types Analysis (1982–2016)
 
-## 📊 Visualization **Chart Type:** Stacked Area Chart
+## 📊 Visualization - (Stacked Area Chart)
 
 
 <p align="center">
