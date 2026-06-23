@@ -2,7 +2,10 @@
   <span style="color:#1E90FF;"> Python Data Analysis Projects</span>
 </h1>
 
-## Data Visualization
+<h2>
+  <span style="color:#28A745;">📊 Data Visualization</span>
+</h2>
+
 
 ## Used Cars Listings Analysis and Visualization
 
