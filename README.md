@@ -2,7 +2,7 @@
 
 ## Data Visualization
 
-## 🚗 Used Cars Listings Analysis and Visualization using Python (Bar Chart)
+## Used Cars Listings Analysis and Visualization using Python (Bar Chart)
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 - Seaborn
 
 ---
-## 📊 Key Insights
+## Key Insights
 
 - Volkswagen has the highest number of car listings (**875**).
 - Mitsubishi has the lowest number of car listings (**306**).
@@ -27,14 +27,14 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ---
 
-## 📈 Visualization
+## Visualization
 
 <img src="Used Cars Bar.png" width="650">
 
 
 ---
 
-## 📋 Conclusion
+## Conclusion
 
 The visualization provides a clear comparison of used car listings across different brands and demonstrates how Python can be used for effective exploratory data analysis and business reporting.
 
