@@ -13,7 +13,7 @@
 
 This project analyzes used car listing data and visualizes the number of car listings available for different automobile brands using Python. The objective is to identify the brands with the highest and lowest market presence through an easy-to-understand bar chart visualization.
 
----
+
 
 ## Tools & Libraries Used
 
@@ -22,7 +22,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 - Matplotlib
 - Seaborn
 
----
+
 ## Key Insights
 
 - Volkswagen has the highest number of car listings (**875**).
@@ -38,7 +38,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 <img src="Used Cars Bar.png" width="650">
 
 
----
+
 
 ## Conclusion
 
