@@ -51,7 +51,7 @@ The visualization provides a clear comparison of used car listings across differ
 ### 📊 Visualization
 
 <p align="center">
-  <img src="Cars by Engine Fuel Type.png" width="550"</p>
+  <img src="Cars by Engine Fuel Type.png" width="500"</p>
 
 ## Key Insights
 
