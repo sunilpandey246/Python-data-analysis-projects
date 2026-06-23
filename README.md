@@ -137,7 +137,7 @@ The real estate market is primarily dominated by mid-priced properties, with the
 
 ---
 
-# 🏡 Project 7: California Real Estate Area vs Price Analysis
+# 🏡 Project 6: California Real Estate Area vs Price Analysis
 
 ## 📊 Visualization (Scatter Plot)
 
