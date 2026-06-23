@@ -63,6 +63,9 @@ The visualization provides a clear comparison of used car listings across differ
 
 ## Conclusion
 
-The used car market is primarily dominated by **Diesel** and **Petrol** vehicles, with Diesel leading the market. Alternative fuel types have a significantly smaller share, highlighting the continued preference for conventional fuel vehicles among used car buyers and sellers. 🚗📊
+The used car market is primarily dominated by **Diesel** and **Petrol** vehicles, with Diesel leading the market. Alternative fuel types have a significantly smaller share, highlighting the continued preference for conventional fuel vehicles among used car buyers and sellers.
+
+
+---
 
 
