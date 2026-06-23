@@ -1,6 +1,6 @@
 # Python-data-analysis-projects
 # Data Visualization
-## 🚗 Used Cars Listings Analysis and Visualization
+## 🚗 Used Cars Listings Analysis and Visualization (Bar Chart)
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python
 - Pandas
@@ -16,7 +16,6 @@ This project analyzes used car listing data and visualizes the number of car lis
 - Seaborn
 
 ---
-
 ## 📊 Key Insights
 
 - Volkswagen has the highest number of car listings (**875**).
@@ -30,47 +29,11 @@ This project analyzes used car listing data and visualizes the number of car lis
 
 ![Cars Listings by Brand](https://raw.githubusercontent.com/sunilpandey246/Python-data-analysis-projects/main/Used%20Cars%20Bar.png)
 
-
----
-
-## 🔄 Project Workflow
-
-1. Import required libraries.
-2. Load CSV data using Pandas.
-3. Explore and validate the dataset.
-4. Create a bar chart using Matplotlib.
-5. Customize labels, titles, and formatting.
-6. Save the visualization as a high-quality PNG image.
-
 ---
 
 ## 📋 Conclusion
 
 The visualization provides a clear comparison of used car listings across different brands and demonstrates how Python can be used for effective exploratory data analysis and business reporting.
-
----
-
-## 📁 Project Structure
-
-```text
-Used-Cars-Listings-Visualization/
-│
-├── bar_chart_data.csv
-├── Used_Cars_Bar.png
-├── Used_Cars_Analysis.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🚀 Author
-
-**Sunil Pandey**
-
-Aspiring Data Analyst skilled in **Excel, SQL, Power BI, Tableau, and Python**.
-
-Connect with me on GitHub to explore more Data Analytics and Data Visualization projects.
 
 
 
